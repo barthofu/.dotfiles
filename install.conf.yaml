@@ -9,6 +9,7 @@
 
     # User config
     ~/.config/i3/: configs/i3/*
+    ~/.config/hypr/: configs/hypr/*
     ~/.config/feh/: configs/feh/*
     ~/.config/polybar/: 
       glob: true

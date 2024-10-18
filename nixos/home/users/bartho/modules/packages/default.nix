@@ -65,9 +65,12 @@ in {
 
       # utils
       # self.packages.${pkgs.system}.wl-ocr
+      hyprland
       wl-clipboard
+      cliphist
       wl-screenrec
       wlr-randr
+      hypridle
     ];
   };
 }

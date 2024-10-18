@@ -10,7 +10,7 @@
 
   module = {
     gui = {
-      hyprland.enable = hyprlandEnable && isWorkstation;
+      # hyprland.enable = hyprlandEnable && isWorkstation;
       hyprlock.enable = hyprlandEnable && isWorkstation;
       wlogout.enable = hyprlandEnable && isWorkstation;
       wofi.enable = hyprlandEnable && isWorkstation;

@@ -9,8 +9,8 @@ let
   cfg = config.module.gui.hyprland;
 in {
   imports = [
-    ./binds.nix
-    ./settings.nix
+    # ./binds.nix
+    # ./settings.nix
   ];
 
   options.module.gui.hyprland = {
